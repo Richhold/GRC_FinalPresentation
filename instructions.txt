@@ -1,0 +1,3 @@
+These are instructions to my game. They are quite easy. You just need to follow the game and to input only asked words (Yes, NO, Press Enter and so on).
+If you do this you will successfully finish game.
+If you are not going to follow this simple rule - you are about to be beaten by robot.
